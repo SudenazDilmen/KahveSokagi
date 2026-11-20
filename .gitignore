@@ -1,0 +1,15 @@
+# Build çıktıları
+bin/
+obj/
+*.user
+*.suo
+.vs/
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# NuGet
+*.nupkg
+packages/

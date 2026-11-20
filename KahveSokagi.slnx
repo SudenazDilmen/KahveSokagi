@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/KahveSokagi.App/KahveSokagi.App.csproj" />
+    <Project Path="src/KahveSokagi.Core/KahveSokagi.Core.csproj" />
+    <Project Path="src/KahveSokagi.Game/KahveSokagi.Game.csproj" />
+    <Project Path="src/KahveSokagi.Infrastructure/KahveSokagi.Infrastructure.csproj" />
+    <Project Path="src/KahveSokagi.Tests/KahveSokagi.Tests.csproj" />
+  </Folder>
+</Solution>
